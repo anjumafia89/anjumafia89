@@ -14,7 +14,6 @@ I specialize in **manual & api testing** to ensure **reliable, user-friendly pro
 Let’s create great software together! 🚀
 
 ---
-
 ### 🛠️ Tech & Tools I Work With
 
 ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-Important-orange)
@@ -36,9 +35,8 @@ Let’s create great software together! 🚀
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&logoColor=white)](https://github.com/anjumafia89)
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:anjumfia89@example.com)
 </div>
-
+Mail me on:anjumafia890@gmail.com
 ---
 ### 📈 GitHub At A Glance
 
