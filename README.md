@@ -27,14 +27,14 @@ I bring a fresh, user-focused approach to testing and love finding bugs before u
 
 ### 📈 GitHub At A Glance
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayeshaQA&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshaQA&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjumafia89&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anjumafia89&layout=compact&theme=tokyonight)
 
 ---
 
 ### 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/afia-anjum12/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/afia-anjum12/)
 📬 **Email:** anjumafia890@gmail.com
 
 ---
