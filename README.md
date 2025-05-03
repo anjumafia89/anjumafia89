@@ -1,14 +1,17 @@
 
-# 👋 Hey there! I'm Afia
-
+# 👋 Hello, I'm Afia! 👩‍💻
 🎓 **Computer Science Graduate** | 🧪 **Entry-Level QA Engineer** | 
 
 ---
 
 🧠 I believe **great software begins with great testing.**  
-As a budding QA professional, I’m passionate about ensuring software works beautifully — not just in code, but in real-world hands.
 
-I bring a fresh, user-focused approach to testing and love finding bugs before users do. With strong fundamentals in manual and automated testing, I’m excited to contribute to teams building high-quality digital experiences.
+I’m an **aspiring Software Quality Assurance Engineer** with a passion for delivering flawless software. 🔍  
+I specialize in **manual & api testing** to ensure **reliable, user-friendly products**. 💡
+
+🔧 Explore my projects, and feel free to **reach out** for collaboration or just to connect!
+
+Let’s create great software together! 🚀
 
 ---
 
