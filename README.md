@@ -27,12 +27,13 @@ I bring a fresh, user-focused approach to testing and love finding bugs before u
 
 ### 🤝 Let's Connect!
 
+<div align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/afia-anjum12/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&logoColor=white)](https://github.com/anjumafia89)
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:anjumfia89@example.com)
-
+</div>
 
 ---
 ### 📈 GitHub At A Glance
@@ -43,9 +44,6 @@ I bring a fresh, user-focused approach to testing and love finding bugs before u
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjumafia89&layout=compact&theme=gruvbox&hide_border=true" />
   
 </div>
----
-
-
 <!--
 **anjumafia89/anjumafia89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
