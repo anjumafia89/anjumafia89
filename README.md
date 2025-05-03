@@ -28,11 +28,16 @@ I bring a fresh, user-focused approach to testing and love finding bugs before u
 ### 📈 GitHub At A Glance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayeshaQA&show_icons=true&theme=tokyonight" alt="Ayesha's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ayeshaQA&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshaQA&layout=compact&theme=tokyonight" alt="Top Languages" />
+  ### 🎯 GitHub at a Glance
+
+<div align="center">
+  
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ayeshaQA&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=ayeshaQA&theme=gruvbox&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshaQA&layout=compact&theme=gruvbox&hide_border=true" />
+  
+</div>
+
 </p>
 
 ---
