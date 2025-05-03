@@ -32,9 +32,9 @@ I bring a fresh, user-focused approach to testing and love finding bugs before u
 
 <div align="center">
   
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ayeshaQA&show_icons=true&theme=gruvbox&hide_border=true" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=ayeshaQA&theme=gruvbox&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshaQA&layout=compact&theme=gruvbox&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=anjumafia89A&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=anjumafia89&theme=gruvbox&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjumfia89&layout=compact&theme=gruvbox&hide_border=true" />
   
 </div>
 
@@ -45,14 +45,13 @@ I bring a fresh, user-focused approach to testing and love finding bugs before u
 ### 🤝 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/afia-anjum12/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&logoColor=white)](https://github.com/anjumafia89)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:anjumfia89@example.com)
 
-📬 **Email:** anjumafia890@gmail.com
 
 ---
 
 💬 *“I don’t break software — I reveal its truths.”*  
-🔄 *Always learning | Always testing | Always improving*
-
 
 <!--
 **anjumafia89/anjumafia89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
