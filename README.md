@@ -33,7 +33,6 @@ I bring a fresh, user-focused approach to testing and love finding bugs before u
 <div align="center">
   
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=anjumafia89&show_icons=true&theme=gruvbox&hide_border=true" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=anjumafia89&theme=gruvbox&hide_border=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjumafia89&layout=compact&theme=gruvbox&hide_border=true" />
   
 </div>
