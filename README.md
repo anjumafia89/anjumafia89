@@ -34,7 +34,7 @@ I bring a fresh, user-focused approach to testing and love finding bugs before u
 
 ### 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/afia-anjum12/))  
 📬 **Email:** anjumafia890@gmail.com
 
 ---
