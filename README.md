@@ -36,8 +36,9 @@ Let’s create great software together! 🚀
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&logoColor=white)](https://github.com/anjumafia89)
 
 </div>
-Mail me on:anjumafia890@gmail.com
+Mail me on: anjumafia890@gmail.com
 ---
+
 ### 📈 GitHub At A Glance
 
 <div align="center">
