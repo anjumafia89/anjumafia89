@@ -25,16 +25,6 @@ I bring a fresh, user-focused approach to testing and love finding bugs before u
 ![HTML](https://img.shields.io/badge/HTML-Basics-E34F26?logo=html5&logoColor=white)
 
 
-### 📈 GitHub At A Glance
-
-<div align="center">
-  
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=anjumafia89&show_icons=true&theme=gruvbox&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjumafia89&layout=compact&theme=gruvbox&hide_border=true" />
-  
-</div>
----
-
 ### 🤝 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/afia-anjum12/)
@@ -45,8 +35,16 @@ I bring a fresh, user-focused approach to testing and love finding bugs before u
 
 
 ---
+### 📈 GitHub At A Glance
 
-💬 *“I don’t break software — I reveal its truths.”*  
+<div align="center">
+  
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=anjumafia89&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjumafia89&layout=compact&theme=gruvbox&hide_border=true" />
+  
+</div>
+---
+
 
 <!--
 **anjumafia89/anjumafia89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
