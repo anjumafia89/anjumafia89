@@ -1,7 +1,7 @@
 
 # 👋 Hey there! I'm Afia
 
-🎓 **Computer Science Graduate** | 🧪 **Entry-Level QA Engineer** | 🔍 *Detail-oriented & curious by nature*
+🎓 **Computer Science Graduate** | 🧪 **Entry-Level QA Engineer** | 
 
 ---
 
